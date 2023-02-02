@@ -7,8 +7,7 @@ Brain size is associated with intelligence, but the relationship between brain m
 
 **TABLE OF CONTENTS**
 ===================================
- [1. Introduction](#1-introduction)
- 
+ [1. Introduction](#1-introduction) 
  [2. Dataset](#2-Dataset)
   + [2.1 ABCD Data](#21-ABCD)    
     + [2.2 NIHPD Data](#22-NIHPD)
