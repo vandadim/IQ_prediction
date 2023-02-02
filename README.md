@@ -23,10 +23,12 @@ Brain size is associated with intelligence, but the relationship between brain m
     + [3.2.1 XGBoost](#321-XGBoost)
 
 
-# INTRODUCTION
+### INTRODUCTION
+
 Alzheimer’s Disease (AD) is a chronic neurodegenerative disorder that occurs among the elderly. AD's pathophysiological changes begin many years before clinical manifestations of disease and the spectrum of AD spans from clinically asymptomatic to severely impaired. Because of this, there is an appreciation that AD should not only be viewed with discrete and defined clinical stages but as a multifaceted process moving along a continuum. Therefore, early prediction of disease progression would be a crucial step towards designing proper therapeutic, unburden the health care system, and preventing adverse events caused by AD. Due to this reason predicting AD
 
-# IMPLEMENTATIONS
+### Dataset
+
 ## Note:
 The pipelines depend on various third-party packages, which should be installed before trying these codes.  Examples of how to utilize our pipelines appear in the main.m. The directory paths should be corrected in the main.m before running it. The data used in our study were obtained from Alzheimer's Disease Neuroimaging Initiative. It can be accessed through https://www.adni-info.org (which requires registration and approval by ADNI).  The subject RIDs used in our study are available as a CSV file in the RIDs directory.
 ## Package Usage:
