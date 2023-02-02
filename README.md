@@ -21,3 +21,7 @@ Brain size is associated with intelligence, but the relationship between brain m
     + [3.2.2 Random forest](#322-RF)    
     + [3.2.3 SVR](#323-SVR)    
     + [3.2.1 XGBoost](#321-XGBoost)
+
+
+# INTRODUCTION
+Alzheimer’s Disease (AD) is a chronic neurodegenerative disorder that occurs among the elderly. AD's pathophysiological changes begin many years before clinical manifestations of disease and the spectrum of AD spans from clinically asymptomatic to severely impaired. Because of this, there is an appreciation that AD should not only be viewed with discrete and defined clinical stages but as a multifaceted process moving along a continuum. Therefore, early prediction of disease progression would be a crucial step towards designing proper therapeutic, unburden the health care system, and preventing adverse events caused by AD. Due to this reason predicting AD
