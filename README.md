@@ -15,10 +15,10 @@ Brain size is associated with intelligence, but the relationship between brain m
 - [Methods](#methods)
   - [Preprocessing](#preprocessing)
   - [Regression Models](#regression-models)
-    - [Elastic Net](#elastic-net)
-    - [Random Forest](#random-forest)
-    - [SVR](#svr)
-    - [XGBoost](#xgboost)
+    - [Elastic Net](/Regression%20Models/Elastic%20Net/)
+    - [Random Forest](/Regression%20Models/Random%20Forest/)
+    - [SVR](/Regression%20Models/SVR/)
+    - [XGBoost](/Regression%20Models/XGBoost/)
 
 
 ## Introduction
