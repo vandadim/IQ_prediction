@@ -40,5 +40,12 @@ The roster identification numbers (RIDs) of the subjects employed in this study 
 For more comprehensive information about the preprocessing techniques utilized in our study, please refer to the following link provided in our paper: WWW.YYYY.CCC
 
 ### Regression Models
+We employed four different regression models in our study: elastic net (implemented via the Glmnet package), support vector regression (SVR), random forest, and XGBoost. Here's a brief overview of each method:
 
-.....
+- [Elastic net (Glmnet)]: This method is a regularized regression technique that combines both L1 and L2 penalties to improve the stability and interpretability of the model. In our study, we utilized the implementation of elastic net provided in the Glmnet package. To access the code used for elastic net in our study, please click on the following link: [Elastic Net](/Regression%20Models/Elastic%20Net/).
+- [Random forest (RF)]: Random forest is an ensemble learning technique that utilizes multiple decision trees to generate a final prediction. This method is known for its ability to handle complex data and avoid overfitting. To access the code for random forest implementation in our study, please click on the following link: [Random Forest](/Regression%20Models/Random%20Forest/).
+
+- [Support vector regression (SVR)]: SVR is a powerful machine learning technique that utilizes support vector machines to perform regression analysis. In our study, we utilized the implementation of SVR provided in the scikit-learn library. To access the code used for SVR in our study, please click on the following link: [SVR](/Regression%20Models/SVR/).
+- [XGBoost]: XGBoost is an optimized implementation of gradient boosting that is widely used in machine learning competitions due to its high predictive accuracy. For our study, we employed the XGBoost implementation provided in the xgboost library. To access the code used for XGBoost in our study, please refer to the following link: [XGBoost](/Regression%20Models/XGBoost/).
+
+
