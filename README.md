@@ -29,10 +29,15 @@ Brain size is associated with intelligence, but the relationship between brain m
 
 ## Dataset
 
-.....
+This work presents three distinct studies that investigate the prediction of IQ scores across different age groups. Firstly, we assess IQ prediction in children using data from the first visit of the ABCD study. Secondly, we explore IQ prediction in developmental data, specifically in subjects ranging from middle childhood through adolescence, using data from the first visit of the NIH pediatric dataset. Finally, we investigate IQ prediction in adults, utilizing data from the Nathan-Klein Institute - Rockland Sample.
+The roster identification numbers (RIDs) of the subjects employed in this study are provided in the following links:
+- [ABCD Data](/Dataset/ABCD%20Data/)
+- [NIHPD Data](/Dataset/NIHPD%20Data/)
+- [NKI-RS Data](/Dataset/NKI-RS%20Data/)
 ## Methods
 
-.........
+### Preprocessing
+For more comprehensive information about the preprocessing techniques utilized in our study, please refer to the following link provided in our paper: WWW.YYYY.CCC
 
 ### Regression Models
 
