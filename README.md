@@ -23,8 +23,9 @@ Brain size is associated with intelligence, but the relationship between brain m
 
 ## Introduction
 
-...
+Our study aimed to evaluate the impact of morphometric measures on predicting IQ scores. To do this, we first predicted IQ scores using brain volume, age, sex, and scanner manufacturer as variables. We then repeated this process while adding either cortical thickness or peri-cortical contrast as additional variables. By comparing the accuracy of these two sets of predictions, we could determine the extent to which the morphometric measures improved the accuracy of IQ score predictions.
 
+It's important to note that we did not adjust for brain size or eliminate its influence. Instead, we sought to determine whether including morphometric measures provided additional information that improved the accuracy of IQ score predictions.
 
 
 ## Dataset
