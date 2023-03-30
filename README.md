@@ -19,6 +19,7 @@ Brain size is associated with intelligence, but the relationship between brain m
     - [Random Forest](#methods)
     - [SVR](#methods)
     - [XGBoost](#methods)
+- [Results](#results)
 
 
 ## Introduction
@@ -49,4 +50,5 @@ We employed four different regression models in our study: elastic net (implemen
 - [Support vector regression (SVR)]: SVR is a powerful machine learning technique that utilizes support vector machines to perform regression analysis. In our study, we utilized the implementation of SVR provided in the scikit-learn library. To access the code used for SVR in our study, please click on the following link: [SVR](/Regression%20Models/SVR/).
 - [XGBoost]: XGBoost is an optimized implementation of gradient boosting that is widely used in machine learning competitions due to its high predictive accuracy. For our study, we employed the XGBoost implementation provided in the xgboost library. To access the code used for XGBoost in our study, please refer to the following link: [XGBoost](/Regression%20Models/XGBoost/).
 
+## Results
 
