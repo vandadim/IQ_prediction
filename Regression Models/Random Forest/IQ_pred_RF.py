@@ -13,7 +13,6 @@ features (Data_X) and output labels (Label).
 # 
 # Dependencies: 
     - NumPy
-    - scikit-learn (for )
     - pandas
     - scikit-learn (for KFold, RandomForestRegressor, RandomizedSearchCV, and mean_absolute_error)
     - scipy.stats (for Pearson correlation coefficient)
