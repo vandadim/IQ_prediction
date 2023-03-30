@@ -52,3 +52,28 @@ We employed four different regression models in our study: elastic net (implemen
 
 ## Results
 
+### The summarized results for the ABCD Study data are given in Tables 2 and 3.
+
+<img src="Results/t2.png" width="700">
+
+
+
+<img src="Results/t3.png" width="700">
+
+### The summarized results for the NIH developmental data are given in Tables
+4 and 5.
+
+<img src="Results/t4.png" width="700">
+
+
+
+<img src="Results/t5.png" width="700">
+
+### The summarized results for the NIH developmental data are given in Tables
+6 and 7.
+
+<img src="Results/t6.png" width="700">
+
+
+
+<img src="Results/t7.png" width="700">
