@@ -60,8 +60,7 @@ We employed four different regression models in our study: elastic net (implemen
 
 <img src="Results/t3.png" width="700">
 
-### The summarized results for the NIH developmental data are given in Tables
-4 and 5.
+### The summarized results for the NIH developmental data are given in Tables 4 and 5.
 
 <img src="Results/t4.png" width="700">
 
@@ -69,8 +68,7 @@ We employed four different regression models in our study: elastic net (implemen
 
 <img src="Results/t5.png" width="700">
 
-### The summarized results for the NIH developmental data are given in Tables
-6 and 7.
+### The summarized results for the NIH developmental data are given in Tables 6 and 7.
 
 <img src="Results/t6.png" width="700">
 
