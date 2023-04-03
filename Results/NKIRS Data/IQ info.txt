@@ -1,0 +1,1 @@
+In the files name IQ_1 refers to Block Design T Score, IQ_2 refers to Vocabulary T Score, IQ_3 refers to Matrix Reasoning T Score, IQ_4 refers to Similarities T Score, IQ_5 refers to VCI Composite Score, IQ_6 refers to PRI Composite Score and IQ_7 refers to FSIQ - 4 Composite Score.
