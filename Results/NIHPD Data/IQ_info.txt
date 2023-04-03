@@ -1,0 +1,1 @@
+In the files name IQ_1 refers to full scale iq, IQ_2 refers to performance iq, IQ_3 refers to t-score block, IQ_4 refers to t-score matrix, IQ_5 refers to t-score similarities, IQ_6 refers to t-score vocabulary and $IQ_7 refers to verbal iq.
