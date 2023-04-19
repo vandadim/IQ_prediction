@@ -36,9 +36,9 @@ It's important to note that we did not adjust for brain size or eliminate its in
 
 This work presents three distinct studies that investigate the prediction of IQ scores across different age groups. Firstly, we assess IQ prediction in children using data from the first visit of the ABCD study. Secondly, we explore IQ prediction in developmental data, specifically in subjects ranging from middle childhood through adolescence, using data from the first visit of the NIH pediatric dataset. Finally, we investigate IQ prediction in adults, utilizing data from the Nathan-Klein Institute - Rockland Sample.
 The roster identification numbers (RIDs) of the subjects employed in this study are provided in the following links:
-- [ABCD Data](/Subjects%20RIDs/ABCD%20Data/)
-- [NIHPD Data](/Subjects%20RIDs/NIHPD%20Data/)
-- [NKI-RS Data](/Subjects%20RIDs/NKI-RS%20Data/)
+- [ABCD](/Subjects%20RIDs/ABCD%20Data/)
+- [NIHPD](/Subjects%20RIDs/NIHPD%20Data/)
+- [NKI-RS](/Subjects%20RIDs/NKI-RS%20Data/)
 ## Methods
 
 ### Preprocessing
